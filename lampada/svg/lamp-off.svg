@@ -26,8 +26,8 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="1.1067473"
-   inkscape:cx="44.273881"
-   inkscape:cy="253.89715"
+   inkscape:cx="44.273883"
+   inkscape:cy="253.89716"
    inkscape:window-width="1366"
    inkscape:window-height="705"
    inkscape:window-x="1016"
@@ -42,13 +42,13 @@
    d="M301.721,436.861h-57.51V402.47c0-6.408,5.194-11.602,11.602-11.602h34.305   c6.408,0,11.602,5.195,11.602,11.602v34.391H301.721z" />
 	<circle
    id="XMLID_882_"
-   style="fill:#665300;fill-opacity:0.19"
+   style="fill:#ffffff;fill-opacity:0.18999998"
    cx="120.64"
    cy="191.25"
    r="48.85" />
 	<path
    id="XMLID_952_"
-   style="fill:#665200;fill-opacity:0.19"
+   style="fill:#cda400;fill-opacity:0.18999998"
    d="M137.239,237.203c18.807-6.795,32.251-24.802,32.251-45.952   c0-26.979-21.871-48.85-48.85-48.85c-21.151,0-39.157,13.444-45.952,32.251C95.538,195.502,116.389,216.352,137.239,237.203z" />
 	<circle
    id="XMLID_884_"
